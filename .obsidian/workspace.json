@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a7b84c0f0cd4fa5",
+        "id": "ef91eef7abd48cb4",
         "type": "tabs",
         "children": [
           {
-            "id": "cd0bf714805ba38d",
+            "id": "680da8c14c8d1c52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust notes/6-20-23 Update.md",
+                "file": "Music Theory/Basic/Relearning Basic Music Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust notes/6-20-23 Update.md",
+                "file": "Music Theory/Basic/Relearning Basic Music Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust notes/6-20-23 Update.md",
+                "file": "Music Theory/Basic/Relearning Basic Music Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust notes/6-20-23 Update.md"
+                "file": "Music Theory/Basic/Relearning Basic Music Theory.md"
               }
             }
           },
@@ -175,24 +175,28 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "cd0bf714805ba38d",
+  "active": "df8cd872e9a950f8",
   "lastOpenFiles": [
-    "Rust notes/10-9-22 Update.md",
-    "Untitled.canvas",
+    "Music Theory/Basic",
     "Rust notes/OS Journey/Day 1.md",
-    "Rust notes/OS Journey/README.md",
-    "Rust notes/10-11-22 Update.md",
     "Rust notes/10-12-22 Update.md",
-    "Rust notes/6-20-23 Update.md",
-    "Pasted image 20221011185455.png",
-    "Pasted image 20230627154033.png",
-    "Pasted image 20230627163225.png",
-    "Pasted image 20221011185308.png",
+    "Images/Pasted image 20221011185308.png",
+    "Untitled.canvas",
+    "Images",
     "Minecraft Ender Chest.md",
-    "Music Theory/Relearning Basic Music Theory.md",
-    "Altars Of Lilith.canvas",
     "Go through the entire rust tut..md",
     "2022-10-14.md",
+    "2022-10-18.md",
+    "2022-10-21.md",
+    "Rust notes/6-20-23 Update.md",
+    "Rust notes/10-11-22 Update.md",
+    "Rust notes/10-9-22 Update.md",
+    "Rust notes/OS Journey/README.md",
+    "Images/Pasted image 20221011185455.png",
+    "Images/Pasted image 20230627154033.png",
+    "Images/Pasted image 20230627163225.png",
+    "Music Theory/Basic/Relearning Basic Music Theory.md",
+    "Altars Of Lilith.canvas",
     "Music Theory",
     "().md",
     "qemu-w64-setup-20230531.exe",
@@ -213,8 +217,6 @@
     "WebProg/Midterm.md",
     "Excalidraw/Drawing 2023-06-20 20.43.33.excalidraw.md",
     "Excalidraw/Drawing 2022-10-10 14.41.16.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-09 19.40.56.excalidraw.md",
-    "2022-10-18.md",
-    "2022-10-21.md"
+    "Excalidraw/Drawing 2022-10-09 19.40.56.excalidraw.md"
   ]
 }
