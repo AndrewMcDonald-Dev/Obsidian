@@ -5,5 +5,3 @@
 Rc<[str]> over Vec<&str>
 ```
 -  Immutable Data
-
-Test
