@@ -11,14 +11,11 @@
             "id": "cd0bf714805ba38d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": -109.99999999999997,
-                  "zoom": -0.49232350019467197
-                }
+                "file": "Rust notes/6-20-23 Update.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -115,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust notes/10-9-22 Update.md",
+                "file": "Rust notes/6-20-23 Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust notes/10-9-22 Update.md",
+                "file": "Rust notes/6-20-23 Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust notes/10-9-22 Update.md"
+                "file": "Rust notes/6-20-23 Update.md"
               }
             }
           },
@@ -180,16 +177,16 @@
   },
   "active": "cd0bf714805ba38d",
   "lastOpenFiles": [
+    "Rust notes/10-9-22 Update.md",
+    "Untitled.canvas",
     "Rust notes/OS Journey/Day 1.md",
     "Rust notes/OS Journey/README.md",
     "Rust notes/10-11-22 Update.md",
     "Rust notes/10-12-22 Update.md",
     "Rust notes/6-20-23 Update.md",
-    "Rust notes/10-9-22 Update.md",
     "Pasted image 20221011185455.png",
     "Pasted image 20230627154033.png",
     "Pasted image 20230627163225.png",
-    "Untitled.canvas",
     "Pasted image 20221011185308.png",
     "Minecraft Ender Chest.md",
     "Music Theory/Relearning Basic Music Theory.md",
