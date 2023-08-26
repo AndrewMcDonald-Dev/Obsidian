@@ -1,0 +1,20 @@
+- [x] Chapter 1 - Getting Started
+- [x] Chapter 2 - Guessing Game
+- [x] Chapter 3 - Common Concepts
+- [x] Chapter 4 - Ownership
+- [x] Chapter 5 - Structs
+- [x] Chapter 6 - Enums and Pattern Matching
+- [x] Chapter 7 - Managing Growing Projects
+- [x] Chapter 8 - Common Collections
+- [x] Chapter 9 - Error Handling
+- [x] Chapter 10 - Generics, Traits, and Lifetimes
+- [ ] Chapter 11 - Automated Tests
+- [ ] Chapter 12 - An I/O Project
+- [ ] Chapter 13 - Functional Language Features
+- [ ] Chapter 14 - More about Cargo and Crates.io
+- [ ] Chapter 15 - Smart Pointers
+- [ ] Chapter 16 - Fearless Concurrency
+- [ ] Chapter 17 - OOP
+- [ ] Chapter 18 - Patterns and Matching
+- [ ] Chapter 19 - Advanced Features
+- [ ] Chapter 20 - Final Project

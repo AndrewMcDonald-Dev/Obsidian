@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "720c139bd401de62",
+    "type": "split",
+    "children": [
+      {
+        "id": "02aa44a0b23072dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WebProg/Midterm.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a09b0f3312d968df",
+    "type": "split",
+    "children": [
+      {
+        "id": "51fb6db7dc6b6ce5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df8cd872e9a950f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed9d2cbaa8f2a536",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8dfd65ebc628875",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87a6f9f1ab229f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "83daff2a192171db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "532a8a27165a5e6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WebProg/Midterm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90464eeaca22ab35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WebProg/Midterm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "890510e3571f8cbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8af5b51e503e07a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WebProg/Midterm.md"
+              }
+            }
+          },
+          {
+            "id": "2c63df754801381a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "02aa44a0b23072dd",
+  "lastOpenFiles": [
+    "Rust notes/10-12-22 Update.md",
+    "Rust notes/10-11-22 Update.md",
+    "Rust notes/10-10-22 Update.md",
+    "2022-10-14.md",
+    "2022-10-18.md",
+    "2022-10-21.md",
+    "Rust notes/Rust Goals.md",
+    "Go through the entire rust tut..md",
+    "Excalidraw/Drawing 2022-10-10 14.41.16.excalidraw.md",
+    "Rust notes/10-9-22 Update.md"
+  ]
+}

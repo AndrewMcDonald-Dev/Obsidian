@@ -1,0 +1,21 @@
+-   ~~Git should be set up properly.
+    -   ~~With a proper .gitignore
+-   ~~You should have server, client, & no-framework folders setup
+    -   ~~They should have the proper files in each
+    -   ~~They should **not** be copies of my code. You should be creating them from scratch yourself to support your needs.
+-   ~~You should be using Vue (and bulma or alternative) at this point.
+    -   ~~**All** of your pages from the last checkpoint should now be moved into vue components
+    -   ~~Proper navigation should be setup in the router
+        -   ~~Some pages should be password protected
+        -   ~~Proper navigation links should be available to get everywhere.
+    -   ~~Some pieces should be included as “building block” components.
+    -   ~~Demonstrate at least a rudimentary level of binding and event handling.
+    -   ~~Proper organization is key.
+-   ~~You should have pages for:
+    -   ~~Listing workouts the current user did recently
+    -   ~~adding/editing workouts
+    -   ~~List workouts that the current user's friends did recently
+    -   ~~Current user's historical statistics
+    -   ~~An admin page for listing/editing users.
+-   ~~Everything should also work in either [https://railway.app](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFZUOFdPQzFCaVJNczJlSC1lcDlZc0ZYMTVid3xBQ3Jtc0tuSE0zYUpPM3ViM1lQQ3I3Znl0bmJyRUpySHlqWXlDZGtMSXRQcHpXdWp1LTJkbnBBXzV5Q0JWWXJvMlpWOTdtOGdGdHBGUTVzTlE3ZlU4UFBRRms4M1V1aWJJMEFkOHllZHBPdTE5VFhtelJwdmlHWQ&q=https%3A%2F%2Frailway.app%2F&v=MusIvEKjqsc) or [https://render.com](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGdUSzM1WTZOc1RFZmczQ1AyX3B5dW9OZkZ4d3xBQ3Jtc0trRURrSDJ2UGdmTFZuekR2LXVQbnZnWDEyTUFuUzJWWk1mWDZIWW5JVTVzamg5TDNuZUNuTnZ1R1RCb3FTNl9JWlVvZUlFaGRKX19HbFRYb3cwQWxMY1lwWko0eVNZM2NzMVlOY1pQSGxkS1hqbnFwOA&q=https%3A%2F%2Frender.com%2F&v=MusIvEKjqsc) 
+-   Extra credit if you include an npm package that we haven’t used and you use it properly to add real value to your app.

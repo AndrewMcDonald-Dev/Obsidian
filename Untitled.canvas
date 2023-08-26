@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ddd25478b62e30ee","x":-150,"y":-720,"width":220,"height":60,"type":"text","text":"Initial Rust Adventure"},
+		{"id":"68df6689c5c214eb","x":-320,"y":-620,"width":560,"height":1120,"type":"file","file":"Rust notes/10-10-22 Update.md"},
+		{"id":"c2486df633c62dfc","x":280,"y":-620,"width":600,"height":1120,"type":"file","file":"Rust notes/10-11-22 Update.md"},
+		{"id":"0278865766659084","x":-920,"y":-620,"width":560,"height":1120,"type":"file","file":"Rust notes/10-9-22 Update.md"}
+	],
+	"edges":[]
+}
