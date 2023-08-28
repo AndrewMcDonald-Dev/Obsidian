@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Theory/Basic/Relearning Basic Music Theory.md",
+                "file": "Music Theory/Theory 1/Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Theory/Basic/Relearning Basic Music Theory.md",
+                "file": "Music Theory/Theory 1/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Theory/Basic/Relearning Basic Music Theory.md",
+                "file": "Music Theory/Theory 1/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Theory/Basic/Relearning Basic Music Theory.md"
+                "file": "Music Theory/Theory 1/Day 1.md"
               }
             }
           },
@@ -175,8 +175,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "df8cd872e9a950f8",
+  "active": "680da8c14c8d1c52",
   "lastOpenFiles": [
+    "Music Theory/Basic/Relearning Basic Music Theory.md",
+    "Music Theory/Theory 1/Day 1.md",
+    "Music Theory/Theory 1",
     "Music Theory/Basic",
     "Rust notes/OS Journey/Day 1.md",
     "Rust notes/10-12-22 Update.md",
@@ -195,7 +198,6 @@
     "Images/Pasted image 20221011185455.png",
     "Images/Pasted image 20230627154033.png",
     "Images/Pasted image 20230627163225.png",
-    "Music Theory/Basic/Relearning Basic Music Theory.md",
     "Altars Of Lilith.canvas",
     "Music Theory",
     "().md",
