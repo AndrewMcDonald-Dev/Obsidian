@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Theory/Theory 1/Day 1.md",
+                "file": "Foundations/Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "87a6f9f1ab229f0e",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Theory/Theory 1/Day 1.md",
+                "file": "Foundations/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Theory/Theory 1/Day 1.md",
+                "file": "Foundations/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Theory/Theory 1/Day 1.md"
+                "file": "Foundations/Day 1.md"
               }
             }
           },
@@ -175,10 +176,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "680da8c14c8d1c52",
+  "active": "df8cd872e9a950f8",
   "lastOpenFiles": [
-    "Images/Drawing 2023-08-28 10.35.08.excalidraw.md",
+    "Images/symbols.pdf",
+    "Images/Unconfirmed 865599.crdownload",
     "Music Theory/Theory 1/Day 1.md",
+    "Foundations/Day 1.md",
+    "Foundations",
+    "Images/Drawing 2023-08-28 10.35.08.excalidraw.md",
     "Images/Free_Test_Data_500KB_PDF.pdf",
     "Images/Unconfirmed 467183.crdownload",
     "Excalidraw/Drawing 2023-08-28 10.27.41.excalidraw.md",
@@ -208,9 +213,7 @@
     "Music Theory",
     "().md",
     "qemu-w64-setup-20230531.exe",
-    "Unconfirmed 839048.crdownload",
     "Rust notes/10-10-22 Update.md",
-    "Rust notes/OS Journey",
     "media/Pasted image 20230620212357.png",
     "media/Pasted image 20230620212325.png",
     "media/Pasted image 20230620212205.png",
