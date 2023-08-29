@@ -48,13 +48,27 @@ No ordering
 
 ### Set Operations
 - Union ($\cup$)
+	- Logical OR
 - Intersection ($\cap$)
+	- Logical AND
 - Complement ($\overline{A}$)
+	- Logical NOT
 
 
 ## Multi-set / Bag
 
+Can be thought of as two sets
+
+Set of elements $\{2, 3\}$
+Set of frequencies $\{2,1\}$
 
 
+When $\cup$ of two multi-sets add the frequencies of like terms
 
+When $\cap$ of two multi-sets minus the frequencies of like terms
 
+Q:    $A = \{2,3\}  \{2,7\}$   $B = \{3,4\}\{2,2\}$ 
+
+What is the answer to $A-B$?
+
+A:  $A-B = \{2,3\}\{2,5\}$
