@@ -23,3 +23,5 @@ Melodic Minor Descending = Bring 6th + 7th down to natural minor
 #### How to derive all modes at a certain route?
 
 All that needs to be done is find the correct 
+
+![[Chapter 2 homework R.pdf]]
