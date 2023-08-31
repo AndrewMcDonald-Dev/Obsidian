@@ -14,3 +14,5 @@ Set up grand staff and do each scale in both clefs.
 Handwriting is confusing notate a lower case meaning minor with a bar on top
 
 $\overline{m} M$
+
+The best way to tranpose a tune is to play it
