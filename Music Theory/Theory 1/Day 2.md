@@ -15,4 +15,5 @@ Handwriting is confusing notate a lower case meaning minor with a bar on top
 
 $\overline{m} M$
 
-The best way to tranpose a tune is to play it
+The best way to transpose a tune is to play it
+
