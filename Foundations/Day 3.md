@@ -64,3 +64,12 @@ All max sub-sequences: `["caba", "cbba", "baba"]`
 		1. $O(n*m)$
 
 
+### Coins
+
+Use minimal amount of coins
+
+1. Divide and mod amount by 25.
+2. The divided amount is added to our total.
+3. The modded amount is passed to 10 then and then 1.
+4. If reach 0 at any time stop.
+
