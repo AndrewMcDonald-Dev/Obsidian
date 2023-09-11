@@ -1,9 +1,9 @@
 
 Dynamic Programming again
 
-![[symbols.pdf]]
 
-![[Latex Cheat Sheet]]
+
+
 
 
 ### Backtrack 
