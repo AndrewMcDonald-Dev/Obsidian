@@ -37,3 +37,27 @@ It seems like this approach works. I can not think of a negative example. I thin
 
 5 = 10  3 = 20 8 = 25 4 = 8     8,3
 
+
+## Subset Sum
+
+|     | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| 3   | 0   | 0   | 0   | 1   |     |     |     |     |     |     |
+| 34  | 0   |     |     |     |     |     |     |     |     |     |
+| 4   | 0   |     |     |     |     |     |     |     |     |     |
+| 12  | 0   |     |     |     |     |     |     |     |     |     |
+| 5   | 0   |     |     |     |     |     |     |     |     |     |
+| 2   | 0   |     |     |     |     |     |     |     |     |     |
+
+
+
+```rust
+
+fn subset_sum(set: &[usize], sum: usize) -> [usize] {
+	if sum == 0 { return }
+	if set[0] < sum {
+		subset_sum(set[index..], sum - set[0])
+	}
+}
+```
