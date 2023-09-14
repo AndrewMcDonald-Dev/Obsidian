@@ -55,7 +55,7 @@ It seems like this approach works. I can not think of a negative example. I thin
 ```rust
 
 fn subset_sum(set: &[usize], sum: usize) -> [usize] {
-	if sum == 0 { return }
+	if sum - set[0] { return  [set[0]]}
 	if set[0] < sum {
 		subset_sum(set[index..], sum - set[0])
 	}
