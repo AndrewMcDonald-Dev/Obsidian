@@ -13,13 +13,41 @@ public int size(Node<E> n){
 
 
 ```java
-public boolean push(E data) {
+public void push(E data) {
 	if head == null {
 		head == new Node<E>(data);
 	} else {
 		newHead == new Node<E>(data);
 		newHead.link == head;
-		head == newHead
+		head == newHead;
 	}
+}
+```
+
+```java
+public void append(Node<E> n, E data) {
+	if (n.link == null){
+		n.link = new Node<E>(data);
+	}
+	this.append(n.link, data);
+}
+```
+
+```java
+public String toString(Node<E> n){
+	if (n != null) {
+		String s
+		if (n.link != null){
+			s = n.data + ", ";
+		}
+		return s += this.toString(n.link);
+	}
+	return "";
+}
+
+public String toString() {
+	String s = "[" + this.toString(head);
+	s.replaceLast(", ", "");
+	return s + "]";
 }
 ```
