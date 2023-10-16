@@ -1,6 +1,6 @@
 More DP!
 
-![[symbols.pdf]]
+
 
 ![[Latex Cheat Sheet]]
 
