@@ -12,3 +12,6 @@ Parallel minor/major
 Relative minor of C is A.
 Parallel minor of C is c.
 
+Non-Harmonic Tones
+Cadences
+
