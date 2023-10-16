@@ -9,6 +9,7 @@ G.V - {s} = All nodes except the starting node
 
 ?.v = all neighbor nodes of ?
 
+Initial State
 
 |     | c   | d        | $\pi$       |
 | --- | --- | -------- | ----------- |
@@ -19,3 +20,28 @@ G.V - {s} = All nodes except the starting node
 | 4   | W   | $\infty$ | $\emptyset$ |
 | 5   | W   | $\infty$ | $\emptyset$ |
 | 6   | W   | $\infty$ | $\emptyset$ |           |
+
+Final State
+
+|     | c   | d   | $\pi$       |
+| --- | --- | --- | ----------- |
+| 0   | B   | 0   | $\emptyset$ |
+| 1   | B   | 1   | 0           |
+| 2   | B   | 2   | 1           |
+| 3   | B   | 3   | 2           |
+| 4   | B   | 2   | 1           |
+| 5   | B   | 1   | 0           |
+| 6   | B   | 2   | 5            |
+
+This result produces a tree
+
+- No Loops
+- Connected
+- Number of Edges = Number of Vertices - 1 
+
+Time Complexity?
+
+Given: n = # of vertices
+Initialization: $O(n)$
+Everything else: $O(n^2)$ 
+
