@@ -43,5 +43,10 @@ Time Complexity?
 
 Given: n = # of vertices
 Initialization: $O(n)$
-Everything else: $O(n^2)$ 
+Everything else: $O(n^2)$ (worst case) 
+
+We should actually use # of edges instead of vertices
+For undirected graph each edge is counted twice and for directed each is counted once.
+
+$O(E)$ this is for adjacency list. For matrix it is always $O(n^2)$. N is the number of nodes and E is the number of edges.
 
