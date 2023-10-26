@@ -28,3 +28,6 @@ $D^0$
 | 3   |     |     |     |     |     |     |
 | 4   |     |     |     |     |     |     |
 | 5    |     |     |     |     |     |     |
+
+Each $E^i$ is a graph considering the cases where $V_j \rightarrow V_i \rightarrow V_k$.
+Each $D^i$ takes the min at each position or $D^{i-1}$ and $E^i$.  
