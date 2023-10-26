@@ -40,3 +40,4 @@ $E_4$
 | 1   | $\infty$ | $\infty$ | $\infty$ | $\infty$ |
 | 2   | $\infty$ | $\infty$ | $\infty$ | $\infty$ |
 | 3   | $\infty$ | $\infty$ | $\infty$ | $\infty$         |
+
