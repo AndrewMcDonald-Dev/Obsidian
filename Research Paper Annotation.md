@@ -29,3 +29,59 @@ annotation-target: PAPER_DONE_PDF.pdf
 >%%TAGS%%
 >
 ^w5wqwoj1oze
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-01T21:33:43.437Z","text":"Weird wording","updated":"2023-11-01T21:33:43.437Z","document":{"title":"PAPER_DONE_PDF.pdf","link":[{"href":"urn:x-pdf:60f9e0ece112f646a00e628b4ea79ae4"},{"href":"vault:/Images/PAPER_DONE_PDF.pdf"}],"documentFingerprint":"60f9e0ece112f646a00e628b4ea79ae4"},"uri":"vault:/Images/PAPER_DONE_PDF.pdf","target":[{"source":"vault:/Images/PAPER_DONE_PDF.pdf","selector":[{"type":"TextPositionSelector","start":6182,"end":6269},{"type":"TextQuoteSelector","exact":"Table 2 is a dictionary to translate a word into its component form, as this paper uses","prefix":"Basic types used in this paper  ","suffix":". Note that one may find many di"}]}]}
+>```
+>%%
+>*%%PREFIX%%Basic types used in this paper%%HIGHLIGHT%% ==Table 2 is a dictionary to translate a word into its component form, as this paper uses== %%POSTFIX%%. Note that one may find many di*
+>%%LINK%%[[#^ofuvuyixr1s|show annotation]]
+>%%COMMENT%%
+>Weird wording
+>%%TAGS%%
+>
+^ofuvuyixr1s
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-01T21:34:19.884Z","text":"Repetitive","updated":"2023-11-01T21:34:19.884Z","document":{"title":"PAPER_DONE_PDF.pdf","link":[{"href":"urn:x-pdf:60f9e0ece112f646a00e628b4ea79ae4"},{"href":"vault:/Images/PAPER_DONE_PDF.pdf"}],"documentFingerprint":"60f9e0ece112f646a00e628b4ea79ae4"},"uri":"vault:/Images/PAPER_DONE_PDF.pdf","target":[{"source":"vault:/Images/PAPER_DONE_PDF.pdf","selector":[{"type":"TextPositionSelector","start":6270,"end":6438},{"type":"TextQuoteSelector","exact":" Note that one may find many different valid component forms for a given word, based on its context in a sentence (for example, likes has a second form in parenthesis).","prefix":"ponent form, as this paper uses.","suffix":" This property will be mentioned"}]}]}
+>```
+>%%
+>*%%PREFIX%%ponent form, as this paper uses.%%HIGHLIGHT%% ==Note that one may find many different valid component forms for a given word, based on its context in a sentence (for example, likes has a second form in parenthesis).== %%POSTFIX%%This property will be mentioned*
+>%%LINK%%[[#^vm8ss5x74vl|show annotation]]
+>%%COMMENT%%
+>Repetitive
+>%%TAGS%%
+>
+^vm8ss5x74vl
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-01T21:36:52.543Z","text":"To check validity, we start with an English sentence. This paper focuses on the present tense, but other tenses are possible.","updated":"2023-11-01T21:36:52.543Z","document":{"title":"PAPER_DONE_PDF.pdf","link":[{"href":"urn:x-pdf:60f9e0ece112f646a00e628b4ea79ae4"},{"href":"vault:/Images/PAPER_DONE_PDF.pdf"}],"documentFingerprint":"60f9e0ece112f646a00e628b4ea79ae4"},"uri":"vault:/Images/PAPER_DONE_PDF.pdf","target":[{"source":"vault:/Images/PAPER_DONE_PDF.pdf","selector":[{"type":"TextPositionSelector","start":7144,"end":7342},{"type":"TextQuoteSelector","exact":"To check validity, we start with an English sentence in the present tense. Other tenses are possible, with future plans to expand to more sentence types, but this paper focuses on the present tense.","prefix":"tence is grammatically correct. ","suffix":" From the English sentence, we e"}]}]}
+>```
+>%%
+>*%%PREFIX%%tence is grammatically correct.%%HIGHLIGHT%% ==To check validity, we start with an English sentence in the present tense. Other tenses are possible, with future plans to expand to more sentence types, but this paper focuses on the present tense.== %%POSTFIX%%From the English sentence, we e*
+>%%LINK%%[[#^eas9fvcj2k4|show annotation]]
+>%%COMMENT%%
+>To check validity, we start with an English sentence. This paper focuses on the present tense, but other tenses are possible.
+>%%TAGS%%
+>
+^eas9fvcj2k4
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-01T21:38:53.447Z","text":"Repetitive","updated":"2023-11-01T21:38:53.447Z","document":{"title":"PAPER_DONE_PDF.pdf","link":[{"href":"urn:x-pdf:60f9e0ece112f646a00e628b4ea79ae4"},{"href":"vault:/Images/PAPER_DONE_PDF.pdf"}],"documentFingerprint":"60f9e0ece112f646a00e628b4ea79ae4"},"uri":"vault:/Images/PAPER_DONE_PDF.pdf","target":[{"source":"vault:/Images/PAPER_DONE_PDF.pdf","selector":[{"type":"TextPositionSelector","start":7351,"end":7360},{"type":"TextQuoteSelector","exact":" English ","prefix":"s on the present tense. From the","suffix":"sentence, we encode each word in"}]}]}
+>```
+>%%
+>*%%PREFIX%%s on the present tense. From the%%HIGHLIGHT%% ==English== %%POSTFIX%%sentence, we encode each word in*
+>%%LINK%%[[#^um1hr211rw|show annotation]]
+>%%COMMENT%%
+>Repetitive
+>%%TAGS%%
+>
+^um1hr211rw
