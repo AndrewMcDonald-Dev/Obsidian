@@ -85,3 +85,17 @@ annotation-target: PAPER_DONE_PDF.pdf
 >%%TAGS%%
 >
 ^um1hr211rw
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-01T22:10:42.393Z","text":"Digiorno","updated":"2023-11-01T22:10:42.393Z","document":{"title":"PAPER_DONE_PDF.pdf","link":[{"href":"urn:x-pdf:60f9e0ece112f646a00e628b4ea79ae4"},{"href":"vault:/Images/PAPER_DONE_PDF.pdf"}],"documentFingerprint":"60f9e0ece112f646a00e628b4ea79ae4"},"uri":"vault:/Images/PAPER_DONE_PDF.pdf","target":[{"source":"vault:/Images/PAPER_DONE_PDF.pdf","selector":[{"type":"TextPositionSelector","start":14844,"end":14859},{"type":"TextQuoteSelector","exact":"DeGennaro, 2023","prefix":" The full code can be found at (","suffix":"). Below we go over the imports "}]}]}
+>```
+>%%
+>*%%PREFIX%%The full code can be found at (%%HIGHLIGHT%% ==DeGennaro, 2023== %%POSTFIX%%). Below we go over the imports*
+>%%LINK%%[[#^zu8uxdjjrtc|show annotation]]
+>%%COMMENT%%
+>Digiorno
+>%%TAGS%%
+>
+^zu8uxdjjrtc
