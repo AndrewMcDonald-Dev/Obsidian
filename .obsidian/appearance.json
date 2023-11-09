@@ -1,5 +1,6 @@
 {
   "translucency": false,
   "accentColor": "",
-  "interfaceFontFamily": "Droid Sans Mono"
+  "interfaceFontFamily": "Droid Sans Mono",
+  "baseFontSize": 17
 }

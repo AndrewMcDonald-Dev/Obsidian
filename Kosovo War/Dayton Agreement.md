@@ -1,0 +1,1 @@
+This agreement put an end to the 3.5 year long Bosnian War. The warring parties agreed to peace and to a single sovereign state known as Bosnia and Herzegovina. Criticism has been leveled at this agreement for creating ineffective and unwieldy political structures and entrenching the ethnic cleansing in the previous war.
