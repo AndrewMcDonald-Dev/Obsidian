@@ -1,0 +1,1 @@
+Also known as the Military Technical Agreement, it was signed between the International Security Force (KFOR) and the Governments of the Federal Republic of Yugoslavia and the Republic of Serbia. It resulted in the end of the Kosovo War, and established new basic relations between Yugoslavia and the KFOR, which would act to replace units of the Yugoslav Army in Kosovo.
