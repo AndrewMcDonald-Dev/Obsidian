@@ -43,7 +43,7 @@ How to notes/rests scale past the eighth variation::With the eighth variation st
 <!--SR:!2023-12-07,103,294-->
 
 When do stems point up or down::The stems point up from the 3rd bar line and below. Stems point down above the 3rd bar line and above.
-<!--SR:!2023-09-15,20,294-->
+<!--SR:!2023-11-30,20,314-->
 
 What does beaming notes together mean::Notes with flags may be connected to one another replacing the flag with a solid line that connects the top of the notes with the amount beams relating to the amount of flags. Notes with different amount of flags can be connected in certain scenarios.
 <!--SR:!2023-08-02,3,254-->
