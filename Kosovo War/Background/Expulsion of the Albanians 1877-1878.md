@@ -1,0 +1,1 @@
+Due to several lost wars, substantial territorial losses for the Ottoman Empire led to the expulsion of ethnic Albanians. The refugees from this event make up a modern large voting group in Kosovo. This event was floated as a Serbian solution to the 'Albanian Question'. 
