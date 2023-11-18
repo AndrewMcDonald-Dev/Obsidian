@@ -1,0 +1,1 @@
+I'm Andrew. I enjoy building fully featured, clean products across the whole software stack. Focused on developing intuitive applications with high fault tolerance that adapt to changing demands swiftly. 
