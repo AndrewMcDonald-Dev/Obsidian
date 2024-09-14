@@ -1,0 +1,2 @@
+
+Acceptable Use Policy is a set of rules applied by the owner, creator, possessor or administrator of a computer network, website, or service that restricts the ways in which may be used. An AUP are written to reduce the potential for legal action that may be taken by a user, and often with little prospect of enforcement.

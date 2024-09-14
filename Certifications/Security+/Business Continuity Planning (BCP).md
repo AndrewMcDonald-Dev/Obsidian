@@ -1,0 +1,2 @@
+
+Business Continuity Planning enables the capability of a business to keep delivering products and services after a disruptive incident. In addition to prevention, the goal is to enable ongoing operations before and during execution of disaster recovery.

@@ -1,0 +1,4 @@
+
+Annualized Loss Expectancy helps organizations quantify the financial impact of potential cyber threats and vulnerabilities. By comprehensively assessing potential losses, ALE enables organizations to make informed decisions regarding their cyber security strategies and investments.
+
+ALE is the annual financial loss an organization is expected due to cyber security incidents. If is important to note that a [[data breach]] can cause financial losses in more obscure forms than initially expected. For example, suffering reputation damage and breaking data protection regulations leading to penalties.

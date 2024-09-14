@@ -1,0 +1,2 @@
+
+A business partners agreement is a written contract between two parties, setting out each partner's duties, rights, and profit sharing. It prevents misunderstandings and disputes and protects the company and its partners.

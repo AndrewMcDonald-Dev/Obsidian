@@ -1,0 +1,2 @@
+
+BASH is a shell program and command language first developed for the [[GNU]] project. It is commonly used as the default login shell for numerous [[Linux]] distributions. BASH is one of the earliest programs ported to [[Linux]] by Linus Torvalds.

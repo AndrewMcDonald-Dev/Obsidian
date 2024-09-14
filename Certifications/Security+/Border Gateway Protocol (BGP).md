@@ -1,0 +1,2 @@
+
+Border Gateway Protocol is a standardized [[exterior gateway protocol]] designed to exchange routing and reachability information among autonomous systems on the Internet. BGP makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator.

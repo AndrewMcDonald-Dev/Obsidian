@@ -1,0 +1,2 @@
+
+ASLR is a computer security technique involved in preventing exploitation of [[memory corruption vulnerabilities]]. The technique is based on randomly arranging the [[address space]]positions of key data areas of a process, including the base of the executable and the positions of the stack, heap and libraries. This prevents the attacker from reliably redirecting code execution to some particular exploited function in memory. 

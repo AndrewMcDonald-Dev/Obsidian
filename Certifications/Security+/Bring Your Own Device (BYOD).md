@@ -1,0 +1,2 @@
+
+BYOD refers to being allowed to use one's personally owned device, rather than being required to use an officially provided device. While BYOD does cause several security concerns it seems impossible to stop employees from bringing some personal device into the network so the practice should be recognized.
