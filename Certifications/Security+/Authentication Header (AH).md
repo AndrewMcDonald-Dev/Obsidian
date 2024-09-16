@@ -1,2 +1,2 @@
 
-An Authentication Header is a security protocol used within the IP security suite. The intent behind this header to assure the recipient of a network message that the content was unmodified and properly sourced. This is achieved by adding a header to the [[IP]]  [[packet]]s, containing a [[checksum]] and a [[digital signature]].
+An Authentication Header is a security protocol used within the IP security suite. The intent behind this header to assure the recipient of a network message that the content was unmodified and properly sourced. This is achieved by adding a header to the [[Internet Protocol (IP)|IP]]  [[packet]]s, containing a [[checksum]] and a [[digital signature]].

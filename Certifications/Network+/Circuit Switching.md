@@ -1,0 +1,4 @@
+
+Circuit switching is a method of implementing a telecommunications network in which two network nodes establish a dedicated communications channel through the network before the nodes may communicate. The circuit guarantees the full bandwidth of the channel and remains connected for the duration of the communication session. 
+
+When a [[Cellular Network#3G|3G Cellular Network]] handles voice calls and text it uses a circuit switched network. This was in addition to [[Packet Switching]] for the mobile data. Later iterations ([[Cellular Network#4G/LTE|4G]] and beyond) switched to a completely packet switched model. 

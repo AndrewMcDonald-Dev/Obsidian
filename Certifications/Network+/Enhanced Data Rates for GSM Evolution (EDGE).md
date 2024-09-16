@@ -1,0 +1,2 @@
+
+EDGE also known as 2.75G, is a [[Cellular Network#2G|2G]] digital mobile phone technology for data transmission. It is a subset of General Packed Radio Service (GPRS) on the [[Global System for Mobile Communications (GSM)]] network and improves upon it offering speeds close to [[Cellular Network#3G|3G]] technology, hence the name 2.75G.

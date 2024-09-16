@@ -1,2 +1,2 @@
 
-A BPDU are frames that contain information about the spanning tree protocol. A switch sends BPDUs using a unique source MAC address from its origin port to a multicast address with destination MAC.
+A BPDU are frames that contain information about the spanning tree protocol. A switch sends BPDUs using a unique source [[Medium Access Control (MAC)|MAC]] address from its origin port to a multicast address with destination MAC.
