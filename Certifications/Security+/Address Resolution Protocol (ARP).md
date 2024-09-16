@@ -1,2 +1,2 @@
 
-The Address Resolution Protocol is a communication protocol used for discovering a [[Medium Access Control (MAC)|MAC]] address associated with a given [[Internet Protocol (IP)|IP]] address. This mapping is a critical function in the [[Internet protocol suite]].
+The Address Resolution Protocol is a communication protocol used for discovering a [[Medium Access Control (MAC)|MAC]] address associated with a given [[Internet Protocol Suite (TCP IP)#Internet Protocol (IP)|IP]] address. This mapping is a critical function in the [[Internet Protocol Suite (TCP IP)|Internet protocol suite]].

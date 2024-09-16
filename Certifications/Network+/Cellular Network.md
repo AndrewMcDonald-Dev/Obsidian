@@ -45,7 +45,7 @@ Each generation of wireless cellualr technoljogy has introduced increased bandwi
 
 As of 2022, 4G technology accounted for 60 percent of all mobile connections worldwide.
 
-Unlike 3G, which is based on two parallel infrastructures consisting of [[Circuit Switching|Circuit Switched]] and [[Packet Switching|Packet Switched]] network nodes, 4G is based on packed switching only. This requires low-latency data transmission. In addition, 4G is the first generation to fully support [[Internet Protocol (IP)#IPv6|IPv6]]. 
+Unlike 3G, which is based on two parallel infrastructures consisting of [[Circuit Switching|Circuit Switched]] and [[Packet Switching|Packet Switched]] network nodes, 4G is based on packed switching only. This requires low-latency data transmission. In addition, 4G is the first generation to fully support [[Internet Protocol Suite (TCP IP)#IPv6|IPv6]]. 
 
 4G has various enhancement including 4.5G also known as [[Long Term Evolution (LTE)#LTE+|LTE+]] and 4.9G also now as [[Long Term Evolution (LTE)#LTE-A Pro|LTE-A Pro]].
 

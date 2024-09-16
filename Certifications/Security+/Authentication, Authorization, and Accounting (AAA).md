@@ -11,4 +11,4 @@ After authentication the user is granted privileges to access certain areas of a
 
 ### Accounting
 
-After authorization, track the user's activity while the user is logged in to a network by tracing information such as how long they were logged in, the data they sent or received, their [[Internet Protocol (IP)|IP]] addresss, [[URI]] they used, and the different services they accessed. 
+After authorization, track the user's activity while the user is logged in to a network by tracing information such as how long they were logged in, the data they sent or received, their [[Internet Protocol Suite (TCP IP)#Internet Protocol (IP)|IP]] addresss, [[URI]] they used, and the different services they accessed. 
