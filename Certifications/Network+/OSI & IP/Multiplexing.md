@@ -1,0 +1,2 @@
+
+Multiplexing, in telecommunications and computer networking, is a method for combining analog or digital signals into one signal over a shared medium. The aim is to share a scarce resource, for example bandwidth over a wireless network. In the context of a [[Channel Access Method|channel access method]], multiplexing is provided by the [[OSI Model#Physical|physical layer]].

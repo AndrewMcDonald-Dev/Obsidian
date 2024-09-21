@@ -1,0 +1,4 @@
+
+NAT is a method of mapping IP address space into another by modifying network address information in the [[Internet Protocol Suite (TCP IP)#Header|IP header]] of packets while they are in transit across a traffic routing device. The technique was originally used to bypass the need to assign a new address to every host when a network was moved, or when the upstream Internet Service Provider was replaced, but could not route the network's address space. It has become popular and essential tool in conserving global address space in the face of [[Internet Protocol Suite (TCP IP)#IPv4 Address Exhaustion|IPv4 address exhaustion]].
+
+NAT is irrelevant for [[Internet Protocol Suite (TCP IP)#IPv6|IPv6]] as the primary reason for NAT's existence will never be essential to IPv6.

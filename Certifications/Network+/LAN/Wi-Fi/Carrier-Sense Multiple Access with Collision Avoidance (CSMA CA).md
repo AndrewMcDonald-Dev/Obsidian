@@ -1,6 +1,6 @@
 
 CSMA/CA is a network multiple access method in which carrier sensing is used, but nodes attempt to avoid collisions by beginning transmission only after the channel is sensed to be "idle". When they do transmit, nodes transmit their packet data in its entirety.
 
-Although CSMA/CA has been used in a variety of wired communications systems, it is particularly beneficial in a [[Wireless Local Area Network (WLAN)]] due to a common problem mof multiple stations being able to see the Access Point, but not each other. 
+Although CSMA/CA has been used in a variety of wired communications systems, it is particularly beneficial in a [[Wireless Local Area Network (WLAN)]] due to a common problem of multiple stations being able to see the Access Point, but not each other. 
 
 CSMA/CA can optionally be supplemented by the exchange oof a Request to Send (RTS) packet sent by the sender S, and a Clear to Send (CTS) packet send by the intendend receiver R. Thus alerting all nodes within range of the sender, receiver or both, to not transmit for the duration of the main transmission. This is known as [[802.11 Specification (Wi-Fi)#RTS/CTS|IEEE 802.11 RTS/CTS]]  exchange. Implementation of RTS/CTS helps to partiallly solve the hidden node problem that is often found in wireless networking. 

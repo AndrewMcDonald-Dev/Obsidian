@@ -1,0 +1,6 @@
+
+A MAC address is a unique identifier assigned to a [[Network Interface Card (NIC)]] for use as a network address in communications wiithin a network segment. This use is common in most [[Institute of Electrical and Electronics Engineers (IEEE)|IEEE]] 802 networking technologies, including [[802.3 (Ethernet)|Ethernet]], [[802.11 Specification (Wi-Fi)|Wi-Fi]], and [[Bluetooth]]. Within the [[OSI Model]], MAC addresses are used in the [[Medium Access Control (MAC)]] protocol sublayer of the [[OSI Model#Data Link|data link layer]]. MAC addresses are recognizable as six groups of two hexadecimal digits.
+
+MAC addresses are primarily assigned by device manufacturers, and are therefore often referred to as the burned-in address. Network nodes with multible network interfacess, such as [[Router|routers]] and [[Multilayer Switch|multilayer switches]], must have a unique MAC address for each network interface in the same network. However, two network interfaces coonnected to two different networks can share the same MAC address.
+
+A MAC address can be split into two parts, the first half is the unique identifier for the manufacturer of the NIC and the second part is a NIC specific unique identifier.

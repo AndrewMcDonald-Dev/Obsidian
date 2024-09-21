@@ -1,0 +1,2 @@
+
+Quality of service is the description or measurement of the overall performance of a service, such as a telephony or computer network, or a cloud computing service, particularly the performance seen by the users of the network. To quantitatively measure quality of service, several related aspects of the network service are often considered, such as [[Packet|packet]] loss, bit rate, throughput, transmission delay, availability, jitter, etc.

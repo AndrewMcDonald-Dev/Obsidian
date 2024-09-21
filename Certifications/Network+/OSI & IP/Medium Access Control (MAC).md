@@ -1,0 +1,12 @@
+
+In [[Local Area Network (LAN)|IEEE 802]], the Medium Access Control, also called media access control, is the layer that controls the hardware responsible for interaction with the wired or wireless transmission medium. The MAC sublayer and the [[OSI Model#Logical Link Control (LLC)|logical link control (LLC)]] sublayer togther make up the [[OSI Model#Data Link|data link layer]]. The LLC provides [[OSI Model#Flow Control|flow control]] and [[Multiplexing|multiplexing]] for the logical link, while the MAC provides flow control and multiplexing for the transmission medium.
+
+Within the [[OSI Model]] the MAC sublayer provides a control abstraction of the physical layer such that the complexities of physical link controol are invisible to the LLC and upper layers of the network stack. The medium access control block is formally connected to [[OSI Model#Physical|PHY]] via a media-independent interface. Although the MAC block is today typically integrated with the PHY within the same device package, historically any MAC could be used with any PHY, indedepent of the transmission medium.
+
+When sending data to another device on the network, the MAC sublayer encapsulates the higher-level frames into frames appropriate for the transmission medium, adds a [[Medium Access Control (MAC)#Frame Check Sequence (FCS)| frame check sequence]] to identify transmission errors, and then forwards the data to the physical layer as soon as the appropriate [[Channel Access Method|channel access method]] permits it. For topologies with a [[Collision Domain|collision domain]], controlling when data is sent and when to wait is necessary to avoid collisions. When receiving data from the physical layer, the MAC block ensures data integrity by verifying the sender's frame check sequences, and strips off the sender's preamble and padding before passing the data up to the higher layers.
+
+The Medium Access Control sublayer implemented for [[Institute of Electrical and Electronics Engineers (IEEE)|IEEE]] 802 networks uses unique identifiers called [[MAC Address|MAC addresses]] for a particular [[Network Interface Card (NIC)]]. 
+
+## Frame Check Sequence (FCS)
+
+A FCS is an error-detecting code added to a [[OSI Model#Frame|frame]] in a communication protocol. Frames are used to send payload data from a source to a destination.

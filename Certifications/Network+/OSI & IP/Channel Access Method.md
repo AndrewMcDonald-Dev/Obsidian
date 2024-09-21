@@ -1,4 +1,4 @@
 
-In telecommunications and computer networks, a channel access method or multiple access method allows more than two terminals connected to the same transmission medium to transmit over it and to share its capacity. 
+In telecommunications and computer networks, a channel access method or multiple access method allows more than two terminals connected to the same transmission medium to transmit over it and to share its capacity also known as [[Multiplexing|multiplexing]]. 
 
 A channel access method may also be a part of the multiple access protocol and control mechanism, also known as [[Medium Access Control (MAC)]]. Medium access control deeals with issues such as addressing, assigning multiplex channels to different users and avoiding collisions. Media access control is a sub-layer in the [[OSI Model#Data Link|Data Link Layer]] of the [[OSI Model]] and a component of the [[Internet Protocol Suite (TCP IP)#Link Layer|link layer]] of the [[Internet Protocol Suite (TCP IP)|TCP/IP model]].
