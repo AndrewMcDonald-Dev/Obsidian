@@ -1,0 +1,6 @@
+
+Traffic shaping is a bandwidth management technique used on computer networks which delays some or all [[Datagram|datagrams]] to bring them into compliance with a desired traffic profile. Traffic shaping is used to optimize or guarantee performance, improve latency, or increase usable bandwidth for some kinds of packets by delaying other kinds.
+
+Some controversial use cases for applicationn-based traffic shaping is bandwidth throttling or peer-to-peer file sharing traffic. Many application protocols use encryption to circumvent application-based traffic shaping.
+
+If a link becomes utilized to the point where there is a significant level of congestion, latency can rise substantially. Traffic sahping can be used to prevent this from occurring and keep latency in check. Traffic shaping provides a means to control the volume of traffic being sent into a network in a specified period (bandwidth throttling) or the maximum rate at which the traffic is sent (rate limiting). This control may be accomplished in many ways and for many reasons; however traffic shaping is always achieved by delaying packets.

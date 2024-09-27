@@ -1,0 +1,4 @@
+
+WiMAX is a family of wireless broadband communication standards based on the [[Institute of Electrical and Electronics Engineers (IEEE)|IEEE]] 802.16 set of standards, which provied [[OSI Model#Physical|physical layer]] and [[Medium Access Control (MAC)|media access control]] options. WiMAX was a competitor to [[Data Over Cable Service Interface Specification (DOCSIS)|DOCSIS]] and [[Digital Subscriber Line (DSL)|DSL]] and a later iteration, WirelessMAN-Advacned was a candidate for [[Cellular Network#4G/LTE|4G]], in competition with the [[Long Term Evolution (LTE)#LTE+|LTE Advanced]] standard.
+
+Around 2009, the [[Long Term Evolution (LTE)]] standard had been around for a year and most mobile operators realized that mobile connectivity was the future, and that LTE was going to become th new worldwide mobile connectivity standard, so they chose to wait for LTE to develop rather than switch from [[Cellular Network#3G|3G]] to WiMax.

@@ -1,0 +1,4 @@
+
+A wireless LAN (WLAN) is a wireless computer network that links two or more devices using wireless communication to form a [[Local Area Network (LAN)]] within a limited area such as a home, school, computer laboratory, campus, or office building. This gives users the ability to move around within the area and remain connected to the network. Through a gateway, a WLAN can also provide a connection to the wider Internet.
+
+Wireless LANs are based on the [[Institute of Electrical and Electronics Engineers (IEEE)|IEEE]] [[802.11 Specification (Wi-Fi)|802.11]] standards are the most widely used computer networks in the world. These are commonly called Wi-Fi and feature a wireless network [[Router]] which links together all devices on the network and links them to the internet.

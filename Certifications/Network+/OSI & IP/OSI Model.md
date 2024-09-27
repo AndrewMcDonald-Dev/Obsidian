@@ -21,7 +21,7 @@ The OSI Model defines a generalized set of rules each layer within the model mus
 
 ## Physical
 
-The physical layer deals with the transmission and reception of unstructured raw data between a device, such as a [[Network Interface Card (NIC)]], [[Ethernet Hub]], or [[Network Switch]], and a physical transmission medium. It converts digital bits into eletrical, radio, or optical signals. Layer specifications define characteristics such as voltage levels, the timing of voltage changes, physical data rates, maximum transmission distances, modulation scheme, [[Channel Access Method|channel access method]], and physical connectors. 
+The physical layer deals with the transmission and reception of unstructured raw data between a device, such as a [[Network Interface Card (NIC)]], [[Ethernet Hub]], or [[Switch]], and a physical transmission medium. It converts digital bits into eletrical, radio, or optical signals. Layer specifications define characteristics such as voltage levels, the timing of voltage changes, physical data rates, maximum transmission distances, modulation scheme, [[Channel Access Method|channel access method]], and physical connectors. 
 
 Bit rate control is done at the physical layer and may define transmission mode as [[simplex]], [[half duplex]], and [[full duplex]]. The components of a physical layer can be described in terms of the [[Physical Topology|physical network topology]]. Physical layer specifications are included in the specifications for the ubiquitous [[Bluetooth]], [[802.3 (Ethernet)|Ethernet]], and [[Universal Serial Bus (USB)|USB]] standards. 
 

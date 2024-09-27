@@ -1,0 +1,2 @@
+
+RPC is a type of [[Inter-Process Communication (IPC)|inter-process communication (IPC)]] where the different processes exist in different address spaces. A different address space is usually a different machine. RPCs are useful because when invoked by a programmer there is little difference between local procedure call or RPC. There is no need for the programmer to write explicit details for the remote interaction. RPCs fell out of common use due to the popularity of object-oriented programming but with recent innovations such as [[gRPC]] have revitalised the technology.
