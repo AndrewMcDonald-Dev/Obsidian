@@ -1,0 +1,3 @@
+Multi-mode optical fiber is a type of [[Optical Fiber]] mostly used for communication over short distances, such as within a building or on a campus. Multi-mode links can be used for data rates up to 800 Gbit/s.  Multi-mode optical fiber is generally cheaper than [[Single-Mode Optical Fiber]].
+
+Transfer rates are 100 Mbit/s at 2km, 1 Gbit/s to 1km, and 10 Gbit/s up to 550 m. Multi-mode optical fiber uses a LED light source as its transmission medium.
