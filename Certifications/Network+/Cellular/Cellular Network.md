@@ -1,4 +1,3 @@
-
 A cellular network is a telecommunications network where the link to and from end nodes is wireless and the network is distributed over land areas called cells, each served by at least one fixed-location transceiver. These base statsion provide the cell with the network coverage which can be used for transmission of voice, data, and other types of cotent. A cell typically uses a different set of frequencies from neighboring cells, to avoid interference and provide guaranteed serivce quality within each cell.
 
 Celluarl networks offer a number of desirable features:

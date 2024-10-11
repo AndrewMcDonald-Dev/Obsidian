@@ -1,0 +1,1 @@
+A bridge processes incoming packets by scanning their [[OSI Model#Data Link|data link layer]] hardware addresses and forwarding the packets out the port connected to the destination system. The primary difference between a bridge and a [[Switch]] is that switches are multiport while bridges only have 2 ports.

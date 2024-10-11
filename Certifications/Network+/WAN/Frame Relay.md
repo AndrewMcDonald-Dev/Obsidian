@@ -1,4 +1,3 @@
-
 Frame Relay is a standardized [[Wide Area Networks (WAN)]] technology that specifies the [[OSI Model#Physical|physical]] and [[OSI Model#Data Link|data link layers]] of digital telecommunications channels using a [[Packet Switching|packet switching]] methodology.  
 
 Network providers commonly implement Frame Relay as a data encapsulation technique used between [[Local Area Network (LAN)]] over a [[Wide Area Networks (WAN)|WAN]]. Each end-user gets a private line to a Frame Relay node. The Frame Relay network handles the transmission over a frequently changing path transparent to all end user extensively used WAN protocols. It is less expensive than leased lines and that is one reason for its popularity. The extreme simplicity of configuring user equipment in a Frame Relay network offers another reason for Frame Relay's popularity.

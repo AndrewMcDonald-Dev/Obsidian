@@ -1,0 +1,1 @@
+A modem (modulator/demodulator) is any device that converts analog signals to digital signals and digital signals back to analog signals.
