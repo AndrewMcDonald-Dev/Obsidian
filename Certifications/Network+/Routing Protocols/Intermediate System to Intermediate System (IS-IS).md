@@ -1,0 +1,5 @@
+IS-IS is a routing protocol designed to move information efficiently within a computer network, a group of physically connected computers or similar devices. It accomplishes this by determining the best route for data through a [[Packet Switching]] network.
+
+IS-IS is an [[Interior Gateway Protocol]], desinged for use within an administrative domain or network. This is in contrast to [[Exterior Gateway Protocol|exterior gateway protocols]], primarily [[Border Gateway Protocol (BGP)]], which is used for routing between autonomous systems.
+
+IS-IS is a link-state routing protocol, operating by reliably flooding link state information throughout a network of [[Router|routers]]. Each IS-IS router independently builds a database of the network's topology, aggregating the flooded network information. Like the [[Open Shortest Path First (OSPF)]] protocol, IS-IS uses Dijkstra's algorithm for computing the best path through the network. Packets are then forwarded, based on the computed ideal path, through the network to the destination.

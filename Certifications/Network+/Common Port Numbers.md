@@ -18,6 +18,7 @@ MySQL - 3306
 [[Lightweight Directory Access Protocol (LDAP)#LDAPS|LDAPS]] - 636
 [[Dynamic Host Configuration Protocol (DHCP)]] - 67 and 68
 [[Trivial File Transfer Protocol (TFTP)]] - 69
+[[Routing Information Protocol (RIP)]] - 520 (Not common)
 
 
 

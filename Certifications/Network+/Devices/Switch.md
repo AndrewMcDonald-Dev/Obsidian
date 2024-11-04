@@ -2,7 +2,7 @@ A network swtich is networking hardware that connects devices on a computer netw
 
 Switches for [[802.3 (Ethernet)|Ethernet]] are the most common form of network switch. Ethernet was initially a [[Shared-Access Medium]], but the introduction of the [[Medium Access Control (MAC)|MAC]] bridge begain its transformation into its most-common point-to-point form without a [[Collision Domain]]. Switches also exist for other types of networks including [[Fibre Channel]], [[Asynchronous Tranfer Node]], and [[InfiniBand]].
 
-Unlike [[Ethernet Hub|repeater hubs]], which broadcast the same data out of each port and let the devices pick out the data addressed to them, a network switch learns the Ethernet addresses of connected devices and then only forward data to the port connected to the device to which it is addressed.
+Unlike [[Ethernet Hub|repeater hubs]], which [[Broadcast]] the same data out of each port and let the devices pick out the data addressed to them, a network switch learns the Ethernet addresses of connected devices and then only forward data to the port connected to the device to which it is addressed.
 
 Typical management features found on a switch:
 - Centralized configuration management and configuration distribution
@@ -18,7 +18,7 @@ Typical management features found on a switch:
 - [[Network Time Protocol (NTP)]] synchronization
 - [[Network Access Control]] features such as [[Institute of Electrical and Electronics Engineers (IEEE)|IEEE]] 802.1X
 - [[Link Layer Discovery Protocol (LLDP)]]
-- [[Internet Group Management Protocol (IGMP)|IGMP]] snooping for control of multicast traffic
+- [[Internet Group Management Protocol (IGMP)|IGMP]] snooping for control of [[Multicast]] traffic
 
 
 ## Port Mirroring

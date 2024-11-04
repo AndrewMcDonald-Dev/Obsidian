@@ -1,0 +1,15 @@
+Anycast is a network addressing and routing methodology in which a single [[Internet Protocol Suite (TCP IP)#Internet Protocol (IP)|IP address]] is shared by devices (generally servers) in multiple locations. [[Router|Routers]] direct [[Packet|packets]] addressed to this destination to the location nearest the sender, using their normal decision-making algorithms, typically the number of BGP network hops. Anycast routing is widely used by [[Content Delivery Network (CDN)]] such as web and [[Domain Name Service (DNS)|name servers]], to bring their content closer to end users.
+
+## IPv4
+Anycast can be implemented via [[Border Gateway Protocol (BGP)]]. Multiple hosts (usually in different geographical areas) are given the same [[Unicast]] IP address and different routes to the address are announced through BGP. Routers consider these to be alternative routes to the same destination, even though they are actually routes to different destinations with the same address. As usual, routers select a route by whatever distance metric is in use. Selecting a route in this setup amounts to selecting a destination.
+
+## IPv6
+Anycast is supported explicitly in the [[Internet Protocol Suite (TCP IP)#IPv6|IPv6]] addressing architecture. The lowest address within an IPv6 [[Subnet]] is reserved as the "Subnet Router" anycast address. In addition, the highest 128 interface identifiers within a subnet are also reserved as anycast addresses.
+
+Most IPv6 routers on the path of an anycast packet through the network will not distingusih it from a [[Unicast]] packet, but special handling is required form the routers near the destination as they are required to rout ean anycast packet to the "nearest" interface within that scope which has the proper anycast address, according to whatever measure of distance is being used.
+
+## Domain Name System
+All Internet root nameservers are implemented as clusters of hosts using anycast addressing. All 13 root servers A-M exist in multiple locations, with 11 on multiple continents. The servers use anycast address announcements to provide a decentralized service. This has accelerated the deployment of physical root servers outside the United States. Many commercial [[Domain Name Service (DNS)|DNS]] providers have switched to an IP anycast environment to increase query performance and redundancy, and to implement [[Load Balancer|load balancing]].
+
+## Content Delivery Networks
+[[Content Delivery Network (CDN)|Content Delivery Networks]] may use anycast for actual [[Hypertext Transfer Protocol (HTTP)|HTTP]] connections to their distribution centers, or for DNS. Because most HTTP connections to such networks request static content such as images and style sheets, they are generally short-lived and stateless across subsequent [[Internet Protocol Suite (TCP IP)#Transmission Control Protocol (TCP)|TCP]] sessions. The general stability of routes and statelessness of connections makes anycast suitable for this application, even though it uses TCP.

@@ -1,0 +1,16 @@
+In computer networking, broadcasting is a method of transferring a message to all recipients simultaneously. Broadcasting cna be perofrmed as a high-level operation in a program or it may be a low-level networking operation, for exmaple broadcasting on [[802.3 (Ethernet)|Ethernet]]. Broadcast is an [[One-to-many]] transmission where a sender transmits messages to all receivers within a group. In networking this can be accomplished using broadcast or [[Multicast]]. This is in contrast to [[One-to-one]] method which is done via [[Unicast]].
+
+Broadcasting refers to transmitting a [[Packet]] that will be received by every device on the network. In practice, the scope of the broadcast is limited to a [[Broadcast#Broadcast Domain|broadcast domain]]. Broadcasting is the most general communication method and is also the most intensive, in the sense that many messages may be required any many network devices are involved. This is in contrast to [[Unicast]] addressing in which a host sends [[Datagram|datagrams]] to another single host, identified by a unique address.
+
+Not all network technologies support broadcast addressing; for example, neither [[X.25]] nor [[Frame Relay]] have broadcast capability. The [[Internet Protocol Suite (TCP IP)#Internet Protocol (IP)#IPv4|IPv4]] which is the primary networking protocol in use today on the Internet and all networks connected to it, support broadcast, but the broadcast domain is the broadcasting host's subnet, which is typically small; there is no way to do an Internet-wide broadcast.
+
+Notably, [[Internet Protocol Suite (TCP IP)#Internet Protocol (IP)#IPv6|IPv6]] does not implement the broadcast method, so as to prevent disturbing all nodes in a network when only a few may be interested in a particular service. Instead, IPv6 relies on [[Multicast]] addressing. 
+
+## Broadcast Domain
+A broadcast domain is a logical division of a computer network, in which all nodes can reach each other by [[Broadcast]] at the [[OSI Model#Data Link|data link layer]]. A broadcast domain can be within the same [[Local Area Network (LAN)|LAN]] segment or it can be bridged to other LAN segments.
+
+In terms of current popular technologies, any computer connected to the same [[802.3 (Ethernet)|Ethernet]] [[Repeater]] or [[Switch]] is a member of the same broadcast domain. Further, any computer connected to the same set of interconnected switches/repeaters is a member of the same broadcast domain. [[Router]]s and other higher-layer devices form boundaries between broadcast domains.
+
+The notion of broadcast domain should be contrasted with that of [[Collision Domain]], which would be all nodes on the same set of inter-connected repeaters, divided by switches and learning bridges. Collision domains are generally smaller than, and contained within, broadcast domains.
+
+While some data-link layer devices are ablet to divide the collision domains, broadcast domains are only divided by layer 3 network devices such as routers or [[Multilayer Switch]]. Separating [[Virtual Local Access Network (VLAN)|VLANs]] divides broadcast domains as well.
