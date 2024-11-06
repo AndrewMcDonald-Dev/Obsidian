@@ -1,0 +1,3 @@
+The Protected EAP is a protocol that encapsulates the [[Extensible Authentication Protocol (EAP)]] within an encrypted and authenticated [[Transport Layer Security (TLS)]] tunnel. The purpose was to correct deficiencies in EAP; EAP assumed a protected communication channel, such as that provided by physical security, so facilities for protection of the EAP conversation were not provided.
+
+PEAP was jointly deveolped by Cisco Systems, Microsoft, and RSA Security.

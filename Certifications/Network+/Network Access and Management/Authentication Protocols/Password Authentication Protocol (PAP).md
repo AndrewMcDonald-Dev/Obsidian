@@ -1,0 +1,3 @@
+PAP is a password-based authentication protocol used by [[Point-to-Point Protocol (PPP)]] to validate users. Almost all network operating systems support PPP with PAP, as do most network access servers.
+
+As the PPP sends data unencrypted, PAP is vulnerable to any attacker who can observe the PPP session. An attacker can see the users name, password, and any other information associated with the PPP session. Some additional security can be gained on the PPP link by using [[Challenge Handshake Authentication Protocol (CHAP)|CHAP]] or [[Extensible Authentication Protocol (EAP)|EAP]]. However, there are always tradeoffs when choosing and authentication method, and there is no single answer for which is more secure.

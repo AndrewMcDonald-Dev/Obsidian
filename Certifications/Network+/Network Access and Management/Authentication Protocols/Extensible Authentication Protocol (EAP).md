@@ -1,0 +1,4 @@
+EAP is an authentication framework ferquently used in network and internet connections. EAP is an authentication framework, not a specific authentication mechanism. It provides some common functions and negotiation of authentication methods called EAP methods. An example common application is EAP-[[Transport Layer Security (TLS)|TLS]].
+
+## Lightweight Extensible Authentication Protocol
+The LEAP method was develpoed by Cisco Systems prior to the ratification of the [[Wi-Fi Protected Access (WPA)#WPA2|802.11i]] security standard. LEAP uses a modified version of [[Microsoft Challenge Handshake Authentication Protocol (MS-CHAP)|MS-CHAP]], an authentication protocol in which user credentials are not strongly protected and easily compromised; an exploit tool called ASLEAP was released in early 2004. Cisco's current recommendation is ot use newer and stronger EAP protocols such as EAP-FAST, [[Protected Extensible Authentication Protocol (PEAP)|PEAP]], or EAP-TLS.

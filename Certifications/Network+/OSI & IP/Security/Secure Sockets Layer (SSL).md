@@ -1,0 +1,3 @@
+Netscape developed the SSL protocols. SSL version 1.0 was never publicly released because of serious security flaws in the protocol. Version 2.0, after being releaesd in 1995 was was quickly found to contain a number of security and usability flaws. 
+
+These flaws necessitated the complete redesign of the protocol to SSL version 3.0. Newer versions of SSL/[[Transport Layer Security (TLS)|TLS]] are based on SSL 3.0. SSL was the main way of implementing [[Hypertext Transfer Protocol (HTTP)#HTTPS|HTTPS]] before the advent of TLS.
